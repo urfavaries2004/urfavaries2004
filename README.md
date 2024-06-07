@@ -10,7 +10,7 @@ College: Institute of Engineering and Management
 Interests: Python, ML, WebDev
 Reach-me-at: chandraye1.saha@gmail.com
 ```
-
+<hr>
 Here's a list of things I currently keep myself busy with:
 
 - 🔭 I’m currently working on making my own portfolio
@@ -18,11 +18,11 @@ Here's a list of things I currently keep myself busy with:
 - 👯 I’m looking to collaborate on any Javascript or Python project
 - 🤔 I’m looking for help with Leetcode and Data structures
 - 😄 Pronouns: She/Her
-
+<br>
+<hr>
 <details>
   <summary><h2 align="left">👩🏻‍💻&nbsp; Fun facts about me </h2></summary>
   <hr>
-  <br>
   
   - I love posting random photos of myself.
   - My go to jam when coding: music. Non-stop. ⭐️
