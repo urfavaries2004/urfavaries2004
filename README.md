@@ -2,17 +2,15 @@
 
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 
-About me :
-```yaml
-Occupation: Student
-Stream: CSE(IOTCSBT)
-College: Institute of Engineering and Management
-Interests: Python, ML, WebDev
-Reach-me-at: chandraye1.saha@gmail.com
-```
+<h2 align="left">👩🏻‍💻&nbsp; About me: </h2>
+- Occupation: Student
+- Stream: CSE(IOTCSBT)
+- College: Institute of Engineering and Management
+- Interests: Python, ML, WebDev
+- Reach-me-at: chandraye1.saha@gmail.com
+
 <hr>
-<details>
-  <summary><h2 align="left">👩🏻‍💻&nbsp; Here's a list of things I currently keep myself busy with: </h2></summary>
+<h2 align="left">👩🏻‍💻&nbsp; Here's a list of things I currently keep myself busy with: </h2>
 
 - 🔭 I’m currently working on making my own portfolio
 - 🌱 I’m currently learning Reactjs
@@ -20,9 +18,7 @@ Reach-me-at: chandraye1.saha@gmail.com
 - 🤔 I’m looking for help with Leetcode and Data structures
 - 😄 Pronouns: She/Her
 <hr>
-<details>
-  <summary><h2 align="left">👩🏻‍💻&nbsp; Fun facts about me </h2></summary>
-  
+<h2 align="left">👩🏻‍💻&nbsp; Fun facts about me: </h2>
   - I love posting random photos of myself.
   - My go to jam when coding: music. Non-stop. ⭐️
   - I love reading books and singing.
