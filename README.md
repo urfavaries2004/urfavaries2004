@@ -21,6 +21,7 @@ Here's a list of things I currently keep myself busy with:
 
 <details>
   <summary><h2 align="left">👩🏻‍💻&nbsp; Fun facts about me </h2></summary>
+  <hr>
   <br>
   
   - I love posting random photos of myself.
