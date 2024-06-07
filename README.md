@@ -2,20 +2,30 @@
 
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 
+About me :
+```yaml
+Occupation: Student
+Stream: CSE(IOTCSBT)
+College: Institute of Engineering and Management
+Interests: Python, ML, WebDev
+Reach-me-at: chandraye1.saha@gmail.com
+```
+
 Here's a list of things I currently keep myself busy with:
 
-- 👩🏻‍💻 Working as a software engineer over at **[Rounded](https://rounded.io)**
-- ☀️ Maintaining **[Letra](https://github.com/jayehernandez/letra-extension)**, an open-source project I created (feel free to contribute, this is beginner friendly!)
-- ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**.
-- 🛠 Getting myself into JAMStack. Trying out [11ty](https://www.11ty.dev/) and [Nuxt.js](https://nuxtjs.org/) in my spare time.
+- 🔭 I’m currently working on making my own portfolio
+- 🌱 I’m currently learning Reactjs
+- 👯 I’m looking to collaborate on any Javascript or Python project
+- 🤔 I’m looking for help with Leetcode and Data structures
+- 😄 Pronouns: She/Her
 
 <details>
-  <summary>Some other facts about me</summary>
+  <summary>Some fun facts about me</summary>
   <br>
   
-  - I love posting random photos of myself .
+  - I love posting random photos of myself.
   - My go to jam when coding: music. Non-stop. ⭐️
-  - I absolutely adore Eevee, the best Pokemon.
+  - I love reading books and singing.
   
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=jayehernandez&show_icons=true&theme=nord)
