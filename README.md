@@ -27,7 +27,7 @@ I like experimenting with new technologies, building small projects, and occassi
   
  
 <h2 align="left">👩🏻‍💻&nbsp; My Github stats: </h2>
-   ![My github stats](https://github-readme-stats.vercel.app/api?username=urfavaries2004&show_icons=true&theme=nord)
+![Chandraye's GitHub stats](https://github-readme-stats.vercel.app/api?username=urfavaries2004&show_icons=true&theme=radical)
 
 <hr>
 <p align="center">
