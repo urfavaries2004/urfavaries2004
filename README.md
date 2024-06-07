@@ -20,7 +20,7 @@ Here's a list of things I currently keep myself busy with:
 - 😄 Pronouns: She/Her
 
 <details>
-  <summary>Some fun facts about me</summary>
+  <summary><h2 align="left">📚&nbsp; Fun facts about me <img src = "https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-    hacker.gif" width = 35px></h2></summary>
   <br>
   
   - I love posting random photos of myself.
