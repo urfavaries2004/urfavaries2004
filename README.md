@@ -43,7 +43,7 @@ I like experimenting with new technologies, building small projects, and occassi
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
  
 <h2 align="left">🏃🏻‍♀&nbsp; My Github stats: </h2>
-![Chandraye's GitHub stats](https://github-readme-stats.vercel.app/api?username=urfavaries2004&show_icons=true&theme=radical)
+[![Chandraye's GitHub stats](https://github-readme-stats.vercel.app/api?username=urfavaries2004&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 <p align="center">
