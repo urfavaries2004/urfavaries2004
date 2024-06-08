@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Chandraye Saha
+# 👋🏻 Hi there!
 I am a frontend developer learning about technologies. I like experimenting with them, building small projects, and occassionally joining hackathons. ✨
 
 
-# 💫 About Me:
+# 👩🏻‍💻 About Me:
 - 🔭 I’m currently working on making my own portfolio
 - 🌱 I’m currently learning Reactjs, TypeScript and Nextjs
 - 👯 I’m looking to collaborate on any Javascript or Python project
