@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Chandraye Saha
-
+I am a frontend developer learning about technologies. I like experimenting with them, building small projects, and occassionally joining hackathons. ✨
 
 
 # 💫 About Me:
@@ -29,4 +29,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=urfavaries2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
