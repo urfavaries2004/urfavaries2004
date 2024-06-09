@@ -1,15 +1,21 @@
 # 👋🏻 Hi there!
-I am a frontend developer learning about technologies. I like experimenting with them, building small projects, and occassionally joining hackathons. ✨
-
-
-# 👩🏻‍💻 About Me:
+I am Chandraye Saha and I am a frontend developer learning about technologies. I like experimenting with them, building small projects, and occassionally joining hackathons. ✨
+<br>
 - 🔭 I’m currently working on making my own portfolio
 - 🌱 I’m currently learning Reactjs, TypeScript and Nextjs
 - 👯 I’m looking to collaborate on any Javascript or Python project
 - 🤔 I’m looking for help with Leetcode and Data structures
 - 😄 Pronouns: She/Her
 
-## 🌐 Socials:
+
+# 👩🏻‍💻 About Me:
+- 🎓 Occupation: Student
+- 📕 Stream:	Computer Science Engineering
+- 🏫 College: Institute of Engineering and Management,Kolkata
+- ❤️ Interests: DBMS, WebDev
+- 🌟 Other-Hobbies: Singing, Drawing, Reading Books
+
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandraye-saha-331155262/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/lxstfxl_aries04) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/bsdtQVmn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kintsugii/?hl=en) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/kintsugiiiiiiiiiiii/) 
 
 
@@ -20,10 +26,10 @@ I am a frontend developer learning about technologies. I like experimenting with
 ![](https://github-readme-streak-stats.herokuapp.com/?user=urfavaries2004&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=urfavaries2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=urfavaries2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=urfavaries2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
