@@ -1,4 +1,4 @@
-# 👋🏻 Hi there!
+# 🙋🏻‍♀️ Hi there!
 I am Chandraye Saha and I am a frontend developer learning about technologies. I like experimenting with them, building small projects, and occassionally joining hackathons. ✨
 <br>
 - 🔭 I’m currently working on making my own portfolio
@@ -9,7 +9,7 @@ I am Chandraye Saha and I am a frontend developer learning about technologies. I
 
 
 # 👩🏻‍💻 About Me:
-- 🎓 Occupation: Student
+- 👩🏻‍🎓 Occupation: Student
 - 📕 Stream:	Computer Science Engineering
 - 🏫 College: Institute of Engineering and Management,Kolkata
 - ❤️ Interests: DBMS, WebDev
