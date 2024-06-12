@@ -11,8 +11,8 @@ I am Chandraye Saha and I am a frontend developer learning about technologies. I
 # 👩🏻‍💻 About Me:
 - 👩🏻‍🎓 Occupation: Student
 - 📕 Stream:	Computer Science Engineering
-- 🏫 College: Institute of Engineering and Management,Kolkata
-- ❤️ Interests: DBMS, WebDev
+- 🏫 College: Institute of Engineering and Management, Kolkata
+- ❤️ Interests: DBMS, WebDev, IOT
 - 🌟 Other-Hobbies: Singing, Drawing, Reading Books
 
 # 🌐 Socials:
