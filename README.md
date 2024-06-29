@@ -1,4 +1,4 @@
-# 🙋🏻‍♀️ Hi there!
+# 🙋🏻‍♀️ Hi there! [![hkangel](https://cdn3.emoji.gg/emojis/4010-hkangel.gif)](https://emoji.gg/emoji/4010-hkangel)
 I am Chandraye Saha and I am a frontend developer learning about technologies. I like experimenting with them, building small projects, and occassionally joining hackathons. ✨
 <br>
 - 🔭 I’m currently working on making my own portfolio
