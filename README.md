@@ -7,7 +7,7 @@ I am Chandraye Saha and I am a frontend developer learning about technologies. I
 - 🤔 I’m looking for help with Leetcode and Data structures
 - 😄 Pronouns: She/Her
 
-# 👩🏻‍💻 About Me:
+# 👩🏻‍💻 About Me: [![mymelody_heart](https://cdn3.emoji.gg/emojis/1973-mymelody-heart.gif)](https://emoji.gg/emoji/1973-mymelody-heart)
 - 👩🏻‍🎓 Occupation: Student
 - 📕 Stream:	Computer Science Engineering
 - 🏫 College: Institute of Engineering and Management, Kolkata
