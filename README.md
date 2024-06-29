@@ -1,4 +1,4 @@
-# 🙋🏻‍♀️ Hi there!
+# 🙋🏻‍♀️ Hi there! [![Kiiroitori_wave](https://cdn3.emoji.gg/emojis/9085-kiiroitori-wave.gif)](https://emoji.gg/emoji/9085-kiiroitori-wave)
 I am Chandraye Saha and I am a frontend developer learning about technologies. I like experimenting with them, building small projects, and occassionally joining hackathons. ✨
 <br>
 - 🔭 I’m currently working on making my own portfolio
@@ -8,7 +8,7 @@ I am Chandraye Saha and I am a frontend developer learning about technologies. I
 - 😄 Pronouns: She/Her
 
 
-# 👩🏻‍💻 About Me: [![Kiiroitori_wave](https://cdn3.emoji.gg/emojis/9085-kiiroitori-wave.gif)](https://emoji.gg/emoji/9085-kiiroitori-wave)
+# 👩🏻‍💻 About Me: 
 - 👩🏻‍🎓 Occupation: Student
 - 📕 Stream:	Computer Science Engineering
 - 🏫 College: Institute of Engineering and Management, Kolkata
