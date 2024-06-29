@@ -8,14 +8,14 @@ I am Chandraye Saha and I am a frontend developer learning about technologies. I
 - 😄 Pronouns: She/Her
 
 
-# 👩🏻‍💻 About Me: 
+# 👩🏻‍💻 About Me: [![KuromiWink](https://cdn3.emoji.gg/emojis/6913-kuromiwink.gif)](https://emoji.gg/emoji/6913-kuromiwink)
 - 👩🏻‍🎓 Occupation: Student
 - 📕 Stream:	Computer Science Engineering
 - 🏫 College: Institute of Engineering and Management, Kolkata
 - ❤️ Interests: DBMS, WebDev, IOT
 - 🌟 Other-Hobbies: Singing, Drawing, Reading Books
 
-# 🌐 Socials: [![KuromiWink](https://cdn3.emoji.gg/emojis/6913-kuromiwink.gif)](https://emoji.gg/emoji/6913-kuromiwink)
+# 🌐 Socials: [![HelloKittyMimmyAngels](https://cdn3.emoji.gg/emojis/2952-hellokittymimmyangels.gif)](https://emoji.gg/emoji/2952-hellokittymimmyangels)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandraye-saha-331155262/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/lxstfxl_aries04) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/bsdtQVmn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kintsugii/?hl=en) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/kintsugiiiiiiiiiiii/) 
 
 
