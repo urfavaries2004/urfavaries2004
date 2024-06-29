@@ -8,7 +8,7 @@ I am Chandraye Saha and I am a frontend developer learning about technologies. I
 - 😄 Pronouns: She/Her
 
 
-# 👩🏻‍💻 About Me: [![hkangel](https://cdn3.emoji.gg/emojis/4010-hkangel.gif)](https://emoji.gg/emoji/4010-hkangel)
+# 👩🏻‍💻 About Me: [![Kiiroitori_wave](https://cdn3.emoji.gg/emojis/9085-kiiroitori-wave.gif)](https://emoji.gg/emoji/9085-kiiroitori-wave)
 - 👩🏻‍🎓 Occupation: Student
 - 📕 Stream:	Computer Science Engineering
 - 🏫 College: Institute of Engineering and Management, Kolkata
