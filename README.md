@@ -26,7 +26,7 @@ I am Chandraye Saha and I am a frontend developer learning about technologies. I
 ![](https://github-readme-streak-stats.herokuapp.com/?user=urfavaries2004&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=urfavaries2004&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophies [![popurin_yay](https://cdn3.emoji.gg/emojis/7117-popurin-yay.gif)](https://emoji.gg/emoji/7117-popurin-yay)
 ![](https://github-profile-trophy.vercel.app/?username=urfavaries2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 🔝 Top Contributed Repo
